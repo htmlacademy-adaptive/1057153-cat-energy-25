@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
-* Наставник:[Алексей Симоненко](https://htmlacademy.ru/profile/id1).
+* Студент: [Корнейчук Анатолий](https://htmlacademy.ru/profile/id2084265).
+* Наставник:[TBA](https://htmlacademy.ru/profile/id).
 
 ---
 
